@@ -1,3 +1,4 @@
+#PROGRAMA PARA SABER CONSUMO DE COMBUSTIVEL
 a = int(input())
 b = float(input())
 

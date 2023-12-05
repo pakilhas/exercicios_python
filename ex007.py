@@ -1,3 +1,4 @@
+#SOMA SIMPLES
 a = int(input())
 b = int(input())
 soma = a + b

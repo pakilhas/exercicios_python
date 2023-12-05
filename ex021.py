@@ -1,3 +1,4 @@
+#GASTO DE COMBUSTIVEL
 t = int(input())
 vm = int(input())
 

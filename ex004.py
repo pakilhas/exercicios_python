@@ -1,3 +1,4 @@
+#SABER O TIPO DA VARIAVEL
 a = input('digite algo:  ')
 print ('O tipo primitivo desse valor é: ', type(a))
 print ('so tem espaço? ', a.isspace())

@@ -1,3 +1,4 @@
+#DISTANCIA 2
 distancia = int(input())
 
 vr = 90 - 60

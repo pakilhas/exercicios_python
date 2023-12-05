@@ -1,3 +1,4 @@
+#exercicio de temperatura alta ou baixa
 temp = int(input())
 
 

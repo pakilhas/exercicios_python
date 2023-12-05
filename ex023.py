@@ -1,3 +1,4 @@
+#CONVERSOR DE TEMPO DE SEGUNDOS
 tempo = int(input())
 
 hor = tempo // 3600

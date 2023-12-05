@@ -1,3 +1,4 @@
+#MEDIA DE DOIS VALORESX
 a = float(input())
 b = float(input())
 ma = 3.5

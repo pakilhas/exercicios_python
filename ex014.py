@@ -1,3 +1,4 @@
+#CALCULO SIMPLE 
 entrada = input().split()
 cod1 = int(entrada[0])
 n1 = int(entrada[1])
